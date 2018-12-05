@@ -68,47 +68,45 @@
 **17.Python_Try_Expect.py**
 
   https://docs.python.org/3/library/exceptions.html#Warning
+  ---
   This will be used to catch error that a program face during its life cycle
   ZeroDivisionError,IOError,ValueError.
   
 **18.Python_Powering_Number.py**
-
-  Exponent Function take a number and raise it to a power example : 2^3 =2*2*2 = 8
-  
-**19.Python_Powering_Number.py**
   
   Exponent Function take a number and raise it to a power example : 2^3 =2*2*2 = 8
   raise_to_power(base_num, pow_num)
 
-**20.Python_For_Loop.py**
+**19.Python_For_Loop.py**
 
   For Loop will print out each letter going through the string "Girrafe"
   
-**21.Python_Comments.py**
+**20.Python_Comments.py**
 
   #Single Line Comment 
   """Multiline Comment"""
  
-**22.Python_Building_Translator.py**
+**21.Python_Building_Translator.py**
 ---
   Building of Dwarf Translator Logic:
   
   *We will built a translator that will convert words into another language.
   *We will Define our Language for our Dwarf Translator.
   *def translate(word)
-**23.Python_2D_Lists.py**
+  
+**22.Python_2D_Lists.py**
 
   number_grid=[[1,2,3,4,5,6,7,8,9],[2,5,2,1,5,3,8,8,9],]
   print(number_grid([ROW][COLUMN]))
 
-**24.Python Read Write File Folder
+**23.Python Read Write File Folder**
   
   Contains two text files for operation
   Basic type of File Operation Covered like Read,write,Create,Append
-**25.Python Object and Classes
+**24.Python Object and Classes**
   
   Contains 2 files one contain class defination and other contain call for the class by import method
   
-**26.Python Module and Pip
+**25.Python Module and Pip**
   
   Import of Module from different files is shown.
