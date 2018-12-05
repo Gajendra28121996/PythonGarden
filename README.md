@@ -66,7 +66,10 @@
   execute function first then checks for condition is satisfied or not
   
 **17.Python_Try_Expect.py**
-
+  
+  ----
+  refer below link for explore more
+ 
   https://docs.python.org/3/library/exceptions.html#Warning
   ---
   This will be used to catch error that a program face during its life cycle
@@ -103,10 +106,16 @@
   
   Contains two text files for operation
   Basic type of File Operation Covered like Read,write,Create,Append
+  
 **24.Python Object and Classes**
   
   Contains 2 files one contain class defination and other contain call for the class by import method
   
 **25.Python Module and Pip**
-  
+
+  ----
+  refer below link for explore more
+ 
+  https://docs.python.org/3/tutorial/modules.html
+  ----
   Import of Module from different files is shown.
