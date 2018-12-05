@@ -119,3 +119,6 @@
   https://docs.python.org/3/tutorial/modules.html
   ----
   Import of Module from different files is shown.
+**26 Python MCQ Quiz**
+  Contains Question Class File and  MCQs file with main function
+  Dont Forget To Check your score
